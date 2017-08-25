@@ -1,0 +1,238 @@
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\csc.exe
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\vbc.exe
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gymm1.0.dll.config
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gymm1.0.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gymm1.0.pdb
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Antlr3.Runtime.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\EntityFramework.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gym5BLL.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gym5DAL.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Newtonsoft.Json.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Helpers.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Mvc.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Optimization.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Razor.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\WebGrease.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gym5BLL.pdb
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Gym5DAL.pdb
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\EntityFramework.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Helpers.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Mvc.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Optimization.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.Razor.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Antlr3.Runtime.pdb
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\Newtonsoft.Json.xml
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\obj\Debug\Gymm1.0.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\obj\Debug\Gymm1.0.dll
+C:\Users\Maicol\Documents\Visual Studio 2015\Projects\Gym\Gymm1.0\obj\Debug\Gymm1.0.pdb
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\csc.exe
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\vbc.exe
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gymm1.0.dll.config
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gymm1.0.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gymm1.0.pdb
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Antlr3.Runtime.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\EntityFramework.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Newtonsoft.Json.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Helpers.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Mvc.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Optimization.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Razor.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\WebGrease.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gym5BLL.pdb
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\EntityFramework.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Helpers.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Mvc.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Optimization.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.Razor.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Antlr3.Runtime.pdb
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\Newtonsoft.Json.xml
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\obj\Debug\Gymm1.0.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\obj\Debug\Gymm1.0.dll
+C:\Users\Maicol\Desktop\Gym\Gymm1.0\obj\Debug\Gymm1.0.pdb
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\csc.exe
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\vbc.exe
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gymm1.0.dll.config
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gymm1.0.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gymm1.0.pdb
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Antlr3.Runtime.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\EntityFramework.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gym5BLL.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gym5DAL.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Newtonsoft.Json.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Helpers.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Mvc.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Optimization.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Razor.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\WebGrease.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gym5BLL.pdb
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Gym5DAL.pdb
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\EntityFramework.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Helpers.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Mvc.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Optimization.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.Razor.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Antlr3.Runtime.pdb
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\Newtonsoft.Json.xml
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.Optimization.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\obj\Debug\Gymm1.0.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\obj\Debug\Gymm1.0.dll
+C:\Users\David\Documents\My Games\Gym\Gymm1.0\obj\Debug\Gymm1.0.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\csc.exe
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\vbc.exe
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gymm1.0.dll.config
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gymm1.0.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gymm1.0.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Antlr3.Runtime.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\EntityFramework.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Newtonsoft.Json.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Helpers.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Mvc.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Optimization.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Razor.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\WebGrease.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gym5BLL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\EntityFramework.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Helpers.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Mvc.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Optimization.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.Razor.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Antlr3.Runtime.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Newtonsoft.Json.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\obj\Debug\Gymm1.0.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\obj\Debug\Gymm1.0.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\obj\Debug\Gymm1.0.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\obj\Debug\RdlCompile.cache
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\obj\Debug\RdlCompile.compiled
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gymm1.0\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll

@@ -1,0 +1,39 @@
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\Gym5BLL.pdb
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\Gym5DAL.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\EntityFramework.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\Gym5DAL.pdb
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\EntityFramework.xml
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\obj\Debug\Gym5BLL.csprojResolveAssemblyReference.cache
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\obj\Debug\Gym5BLL.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\obj\Debug\Gym5BLL.pdb
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll.config
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll.config
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\Gym5BLL.pdb
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\EntityFramework.dll
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\bin\Debug\EntityFramework.xml
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\obj\Debug\Gym5BLL.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\obj\Debug\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Gym\Gym5BLL\obj\Debug\Gym5BLL.pdb
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll.config
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\Gym5BLL.pdb
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\Gym5DAL.dll
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\Gym5DAL.pdb
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\bin\Debug\EntityFramework.xml
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\obj\Debug\Gym5BLL.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\obj\Debug\Gym5BLL.dll
+C:\Users\David\Documents\My Games\Gym\Gym5BLL\obj\Debug\Gym5BLL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll.config
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\Gym5BLL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\bin\Debug\EntityFramework.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\obj\Debug\Gym5BLL.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\obj\Debug\Gym5BLL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5BLL\obj\Debug\Gym5BLL.pdb

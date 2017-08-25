@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0d2e6af589cd4cb4a63aaa38d5651c30" Name="Diagram1">
+        <EntityTypeShape EntityType="Gym5Model.Cierre" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.Consecutivo" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.Factura" Width="1.5" PointX="5.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.InstructorGym" Width="1.5" PointX="8.25" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.LogEmpresa" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.LogUsuario" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.PersonaGym" Width="1.5" PointX="10.5" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.PersonaMedidasGym" Width="1.5" PointX="12.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.Producto" Width="1.5" PointX="3" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gym5Model.sysdiagram" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="Gym5Model.FK__Cierre__idNombre__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__Cierre__usuario__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__Factura__idProdu__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__Instructo__idNom__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__Instructo__usuar__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__PersonaGy__idIns__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__LogUsuari__idNom__1920BF5C" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__PersonaGy__idNom__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__Producto__idNomb__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="Gym5Model.FK__PersonaMe__idPer__2C3393D0" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Gym5Model.CierreProducto" Width="1.5" PointX="7.5" PointY="13.875" />
+        <AssociationConnector Association="Gym5Model.FK__CierrePro__idCie__3B75D760" />
+        <AssociationConnector Association="Gym5Model.FK__CierrePro__idNom__3C69FB99" />
+        <AssociationConnector Association="Gym5Model.FK__CierrePro__idPro__3A81B327" />
+        <EntityTypeShape EntityType="Gym5Model.Compra" Width="1.5" PointX="3" PointY="7.875" />
+        <EntityTypeShape EntityType="Gym5Model.CompraProducto" Width="1.5" PointX="10.25" PointY="14.125" />
+        <AssociationConnector Association="Gym5Model.FK__Compra__idNombre__02FC7413" />
+        <AssociationConnector Association="Gym5Model.FK__CompraPro__idCom__05D8E0BE" />
+        <AssociationConnector Association="Gym5Model.FK__CompraPro__idPro__06CD04F7" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

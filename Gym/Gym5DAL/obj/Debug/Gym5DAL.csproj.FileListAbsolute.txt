@@ -1,0 +1,39 @@
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll.config
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\Gym5DAL.pdb
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\EntityFramework.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\EntityFramework.xml
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\obj\Debug\Gym5DAL.dll
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\obj\Debug\Gym5DAL.pdb
+c:\Users\Maicol\documents\visual studio 2015\Projects\Gym\Gym5DAL\obj\Debug\Gym5DAL.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll.config
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\EntityFramework.dll
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\EntityFramework.xml
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\obj\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Gym\Gym5DAL\obj\Debug\Gym5DAL.pdb
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll.config
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\Gym5DAL.pdb
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\EntityFramework.xml
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\obj\Debug\Gym5DAL.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\obj\Debug\Gym5DAL.dll
+C:\Users\David\Documents\My Games\Gym\Gym5DAL\obj\Debug\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll.config
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\Gym5DAL.pdb
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\EntityFramework.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\EntityFramework.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\obj\Debug\Gym5DAL.csprojResolveAssemblyReference.cache
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\obj\Debug\Gym5DAL.dll
+C:\Users\Maicol\Desktop\Domingo ya casi\Gym\Gym5DAL\obj\Debug\Gym5DAL.pdb

@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<link href="~/Content/assets/css/Prueba.css" rel="stylesheet" />
+<div id="butt" style="margin-top: 22%">
+    <span class='pulse-button' onclick="graf(); adios()">Cargar</span>
+</div>
+<div id="container" style="margin-top: -22%">
+</div>
+<script>
+    $.ajax({
+        type: "post",
+        url: "/Medidas/Mostrar",
+        success: function (data) {
+            $("#container").html(data.result);
+        }
+    });
+    function adios() {
+        $("#butt").html("");
+    }
+</script>
+

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Gym5ModelStoreContainer" CdmEntityContainer="GymContext">
+    <EntitySetMapping Name="Cierres">
+      <EntityTypeMapping TypeName="Gym5Model.Cierre">
+        <MappingFragment StoreEntitySet="Cierre">
+          <ScalarProperty Name="idCierre" ColumnName="idCierre" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Consecutivos">
+      <EntityTypeMapping TypeName="Gym5Model.Consecutivo">
+        <MappingFragment StoreEntitySet="Consecutivos">
+          <ScalarProperty Name="prefijo" ColumnName="prefijo" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Facturas">
+      <EntityTypeMapping TypeName="Gym5Model.Factura">
+        <MappingFragment StoreEntitySet="Factura">
+          <ScalarProperty Name="idFactura" ColumnName="idFactura" />
+          <ScalarProperty Name="NombreCliente" ColumnName="NombreCliente" />
+          <ScalarProperty Name="FechaFactura" ColumnName="FechaFactura" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InstructorGyms">
+      <EntityTypeMapping TypeName="Gym5Model.InstructorGym">
+        <MappingFragment StoreEntitySet="InstructorGym">
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido1" ColumnName="apellido1" />
+          <ScalarProperty Name="apellido2" ColumnName="apellido2" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogEmpresas">
+      <EntityTypeMapping TypeName="Gym5Model.LogEmpresa">
+        <MappingFragment StoreEntitySet="LogEmpresa">
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogUsuarios">
+      <EntityTypeMapping TypeName="Gym5Model.LogUsuario">
+        <MappingFragment StoreEntitySet="LogUsuario">
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+          <ScalarProperty Name="permiso" ColumnName="permiso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonaGyms">
+      <EntityTypeMapping TypeName="Gym5Model.PersonaGym">
+        <MappingFragment StoreEntitySet="PersonaGym">
+          <ScalarProperty Name="idPersona" ColumnName="idPersona" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido1" ColumnName="apellido1" />
+          <ScalarProperty Name="apellido2" ColumnName="apellido2" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="fechaPago" ColumnName="fechaPago" />
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="enfermedad" ColumnName="enfermedad" />
+          <ScalarProperty Name="observaciones" ColumnName="observaciones" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonaMedidasGyms">
+      <EntityTypeMapping TypeName="Gym5Model.PersonaMedidasGym">
+        <MappingFragment StoreEntitySet="PersonaMedidasGym">
+          <ScalarProperty Name="idPersona" ColumnName="idPersona" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="pecho" ColumnName="pecho" />
+          <ScalarProperty Name="espalda" ColumnName="espalda" />
+          <ScalarProperty Name="cintura" ColumnName="cintura" />
+          <ScalarProperty Name="cadera" ColumnName="cadera" />
+          <ScalarProperty Name="pierna" ColumnName="pierna" />
+          <ScalarProperty Name="pantorrilla" ColumnName="pantorrilla" />
+          <ScalarProperty Name="brazo" ColumnName="brazo" />
+          <ScalarProperty Name="antebrazo" ColumnName="antebrazo" />
+          <ScalarProperty Name="triceps" ColumnName="triceps" />
+          <ScalarProperty Name="abdominal" ColumnName="abdominal" />
+          <ScalarProperty Name="supraIliaco" ColumnName="supraIliaco" />
+          <ScalarProperty Name="subscapular" ColumnName="subscapular" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="estatura" ColumnName="estatura" />
+          <ScalarProperty Name="IMC" ColumnName="IMC" />
+          <ScalarProperty Name="porcentajeGrasa" ColumnName="porcentajeGrasa" />
+          <ScalarProperty Name="idMedida" ColumnName="idMedida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Productoes">
+      <EntityTypeMapping TypeName="Gym5Model.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="precioCompra" ColumnName="precioCompra" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Gym5Model.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="Gym5Model.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="Gym5Model.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="Gym5Model.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="Gym5Model.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Gym5Model.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="Gym5Model.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Gym5Model.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="Gym5Model.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="Gym5Model.Store.sp_upgraddiagrams" />
+    <EntitySetMapping Name="CierreProductoes">
+      <EntityTypeMapping TypeName="Gym5Model.CierreProducto">
+        <MappingFragment StoreEntitySet="CierreProducto">
+          <ScalarProperty Name="idCierreProducto" ColumnName="idCierreProducto" />
+          <ScalarProperty Name="cantidadCierre" ColumnName="cantidadCierre" />
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+          <ScalarProperty Name="idCierre" ColumnName="idCierre" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Compras">
+      <EntityTypeMapping TypeName="Gym5Model.Compra">
+        <MappingFragment StoreEntitySet="Compra">
+          <ScalarProperty Name="idNombreEmpresa" ColumnName="idNombreEmpresa" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="idCompra" ColumnName="idCompra" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CompraProductoes">
+      <EntityTypeMapping TypeName="Gym5Model.CompraProducto">
+        <MappingFragment StoreEntitySet="CompraProducto">
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="idCompra" ColumnName="idCompra" />
+          <ScalarProperty Name="idCompraProducto" ColumnName="idCompraProducto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
